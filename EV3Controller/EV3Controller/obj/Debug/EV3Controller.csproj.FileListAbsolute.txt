@@ -1,0 +1,10 @@
+c:\users\davic\documents\visual studio 2012\Projects\EV3Controller\EV3Controller\bin\Debug\EV3Controller.exe.config
+c:\users\davic\documents\visual studio 2012\Projects\EV3Controller\EV3Controller\bin\Debug\EV3Controller.exe
+c:\users\davic\documents\visual studio 2012\Projects\EV3Controller\EV3Controller\bin\Debug\EV3Controller.pdb
+c:\users\davic\documents\visual studio 2012\Projects\EV3Controller\EV3Controller\bin\Debug\Lego.Ev3.Desktop.dll
+c:\users\davic\documents\visual studio 2012\Projects\EV3Controller\EV3Controller\obj\Debug\EV3Controller.csprojResolveAssemblyReference.cache
+c:\users\davic\documents\visual studio 2012\Projects\EV3Controller\EV3Controller\obj\Debug\EV3Controller.Form1.resources
+c:\users\davic\documents\visual studio 2012\Projects\EV3Controller\EV3Controller\obj\Debug\EV3Controller.Properties.Resources.resources
+c:\users\davic\documents\visual studio 2012\Projects\EV3Controller\EV3Controller\obj\Debug\EV3Controller.csproj.GenerateResource.Cache
+c:\users\davic\documents\visual studio 2012\Projects\EV3Controller\EV3Controller\obj\Debug\EV3Controller.exe
+c:\users\davic\documents\visual studio 2012\Projects\EV3Controller\EV3Controller\obj\Debug\EV3Controller.pdb
